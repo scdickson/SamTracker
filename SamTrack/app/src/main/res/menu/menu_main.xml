@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <group
+        android:id="@+id/location_type_option"
+        android:checkableBehavior="single">
+        <!-- Notice how these items inherit from the group. -->
+        <item
+            android:id="@+id/use_gps"
+            android:checked="true"
+            android:title="Use GPS" />
+        <item
+            android:id="@+id/use_network"
+            android:title="Use Network" />
+    </group>
+</menu>

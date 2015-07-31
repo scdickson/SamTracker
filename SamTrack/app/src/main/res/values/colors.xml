@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inital_screen_mode_header_color" type="color">#e7771a</item>
+    <item name="inital_screen_mode_description_color" type="color">#c5bfba</item>
+    <item name="inital_screen_description_color" type="color">#ffffff</item>
+
+    <item name="default_button_unpressed_color" type="color">#2D8CD6</item>
+    <item name="default_button_pressed_color" type="color">#4a4a4a</item>
+    <item name="default_button_unpressed_border_color" type="color">#4a4a4a</item>
+    <item name="default_button_pressed_border_color" type="color">#ffffff</item>
+    <item name="default_button_yellow_unpressed_color" type="color">#ffff00</item>
+    <item name="default_button_red_unpressed_color" type="color">#cd2626</item>
+
+    <item name="titlebar_background_color" type="color">#000000</item>
+
+    <item name="detail_view_background_color" type="color">#3F3F3F</item>
+    <item name="list_row_unselected_color" type="color">#ffffff</item>
+    <item name="list_row_selected_color" type="color">#E5E5E5</item>
+</resources>
